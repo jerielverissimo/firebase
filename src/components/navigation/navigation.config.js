@@ -1,5 +1,5 @@
-import aboutThisSiteTemplate from './components/about/about.view.html';
-import homeTemplate from './components/home/home.view.html';
+import aboutThisSiteTemplate from '../about/about.view.html';
+import homeTemplate from '../home/home.view.html';
 
 const MAIN_CONTENT_SECTION = 'section-content';
 

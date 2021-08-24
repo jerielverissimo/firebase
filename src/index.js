@@ -1,6 +1,6 @@
 import './styles/main.scss';
 
-import { makeNavView } from './navigation.js';
+import { makeNavView } from './components/navigation/navigation.js';
 import { renderHtmlTemplate } from './render.js';
 import homeTemplate from './components/home/home.view.html';
 

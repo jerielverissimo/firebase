@@ -1,4 +1,4 @@
-import { renderHtmlTemplate } from './render.js';
+import { renderHtmlTemplate } from '../../render.js';
 import { navConfig } from './navigation.config.js';
 
 const handleNavClick = (template, id) => {
