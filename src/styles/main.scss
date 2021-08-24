@@ -1,0 +1,13 @@
+ @import "~bootstrap/scss/bootstrap";
+
+@import "../components/home/__home";
+
+
+body {
+  margin: 0; 
+  font-family: 'Prompt', sans-serif;
+  color: white;
+  background: #202731;
+  overflow-x: hidden;
+}
+
